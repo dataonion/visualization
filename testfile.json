@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Olympics"
+    },
+    {
+      "id": 2,
+      "name": "Alpine Skiing",
+      "parent": 1
+    },
+    {
+      "id": 3,
+      "name": "Alpine Skiing Men's Super G",
+      "parent": 2
+    },
+    {
+      "id": 4,
+      "name": "Kjetil Andr Aamodt",
+      "parent": 3
+    }
+]
